@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Is0tA9tKxbbO/DqCPjtUulqSPNLpIOCpdGnRjqmn+7VD03HlMGOdKOmlIxZfBtS1Kp6H8J/30DJvfVKiUl/Bjg==",
+  "dgSpecHash": "wQ80MQVKjRE7KrPuitR30m26GegW0WLJ2UG6bMsh/F3o1aeXC+8GII9Il3QrlBKqmltByuL5jqmwHOnh+Rshyw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Louis.Peter\\OneDrive - SINOVO business solutions GmbH\\Dokumente\\.Net\\ReStore\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Louis.Peter\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\Louis.Peter\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Louis.Peter\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Louis.Peter\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Louis.Peter\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Louis.Peter\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Louis.Peter\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
