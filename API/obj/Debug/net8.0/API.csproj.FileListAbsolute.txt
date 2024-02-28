@@ -31,3 +31,4 @@ C:\Users\Louis.Peter\OneDrive - SINOVO business solutions GmbH\Dokumente\.Net\Re
 C:\Users\Louis.Peter\OneDrive - SINOVO business solutions GmbH\Dokumente\.Net\ReStore\API\obj\Debug\net8.0\API.pdb
 C:\Users\Louis.Peter\OneDrive - SINOVO business solutions GmbH\Dokumente\.Net\ReStore\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\Louis.Peter\OneDrive - SINOVO business solutions GmbH\Dokumente\.Net\ReStore\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Louis.Peter\OneDrive - SINOVO business solutions GmbH\Dokumente\.Net\ReStore\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
