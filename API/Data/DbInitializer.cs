@@ -211,6 +211,8 @@ namespace API.Data
             {
                 context.Products.Add(product);
             }
+
+            context.SaveChanges();
         }
     }
 }
